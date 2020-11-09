@@ -1,0 +1,1 @@
+﻿positionForPages[1252]={page:1252,positions:[]};
